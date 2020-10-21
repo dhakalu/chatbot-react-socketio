@@ -1,0 +1,10 @@
+{
+  "name": "chatbot-socketio-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dhakalu/chatbot-react-socketio.git",
+  "author": "Upen Dhakal <dhakal.upenn@gmail.com>",
+  "license": "MIT",
+    "private": true,
+    "workspaces": ["packages/server", "packages/client"]
+}

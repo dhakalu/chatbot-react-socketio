@@ -2,14 +2,14 @@
 
 # dependencies
 /**/node_modules
-/cleint/.pnp
-/client/.pnp.js
+pakages/cleint/.pnp
+pakages/client/.pnp.js
 
 # testing
-/client/coverage
+pakages/client/coverage
 
 # production
-/client/build
+pakages/client/build
 
 # misc
 **/.DS_Store
