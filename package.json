@@ -5,6 +5,9 @@
   "repository": "https://github.com/dhakalu/chatbot-react-socketio.git",
   "author": "Upen Dhakal <dhakal.upenn@gmail.com>",
   "license": "MIT",
-    "private": true,
-    "workspaces": ["packages/server", "packages/client"]
+  "private": true,
+  "workspaces": [
+    "packages/server",
+    "packages/client"
+  ]
 }
